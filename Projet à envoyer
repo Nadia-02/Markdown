@@ -24,7 +24,7 @@ Pour clôturer le projet **Habilitations** (BTS SIO SLAM), cette étape consista
    - Contient la création de la base `HabilitationsDB`, des tables (`Utilisateur`, `Habilitation`) et de l’utilisateur SQL.  
    - **Lien GitHub** :  
      ```
-     https://github.com/Nadia-02/script-sql/blob/main/Projet%20pro2
+     https://github.com/Nadia-02/script-sql/tree/main/Projet%20pro2
      ```
 
 ---
