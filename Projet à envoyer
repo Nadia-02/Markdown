@@ -1,0 +1,63 @@
+---
+layout: default
+title: "Étape 6 : Déploiement & Compte rendu"
+---
+
+# Étape 6 : Gérer le déploiement, rédiger le compte rendu, créer la page dédiée
+
+## Contexte & mission
+Pour clôturer le projet **Habilitations** (BTS SIO SLAM), cette étape consistait à :
+- Créer un installateur Windows (MSI + setup.exe) pour déployer l’application sur un autre poste.  
+- Générer le script SQL complet de la base de données (création des tables, insertion, création de l’utilisateur).  
+- Rédiger un compte rendu d’activité détaillé, comprenant captures du Kanban, extraits de code et bilan.  
+- Mettre en ligne une page dédiée dans le portfolio avec tous les liens : dépôt GitHub, script SQL, PDF du rapport, vidéo de démonstration.
+
+---
+
+## Fichiers de déploiement
+
+1. **Installateur Windows**  
+   - `setup.exe` et `Habilitations.Install.msi` → **Télécharger l’installateur**  
+
+2. **Script SQL complet**  
+   - Fichier : `script-complet.sql`  
+   - Contient la création de la base `HabilitationsDB`, des tables (`Utilisateur`, `Habilitation`) et de l’utilisateur SQL.  
+   - **Lien GitHub** :  
+     ```
+     https://github.com/Nadia-02/script-sql/blob/main/Projet%20pro2
+     ```
+
+---
+
+## Compte rendu d’activité
+
+- **Fichier PDF :** `CompteRendu_Etape6.pdf` (sommaire, contexte, étapes, captures d’écran, bilan).  
+- **Aperçu du sommaire** :
+
+  1. Contexte et mission  
+  2. Étape 1 : Préparation du projet et création de l’installateur  
+  3. Étape 2 : Génération du script SQL complet  
+  4. Étape 3 : Documentation technique et intégration du script  
+  5. Étape 4 : Rédaction du compte rendu et création de la page portfolio  
+  6. Bilan final  
+
+- **Lien GitHub** :  
+https://github.com/Nadia-02/script-sql/raw/main/doc/CompteRendu_MissionHabilitations.pdf
+
+---
+
+## Vidéo de démonstration
+
+Voici la vidéo de démonstration de l’application déployée :  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TA_GFRONT-Y" 
+  title="Démo Application Habilitations" frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen></iframe>
+
+> 
+
+---
+
+
+---
+
